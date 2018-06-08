@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Git 課題</title>
+    </head>
+    <body>
+        <h1>これは最初のコミットです。</h1>
+    </body>
+</html>
